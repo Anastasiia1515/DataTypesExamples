@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paintings>
+	<painting>
+		<name>Salvator Mundi</name>
+		<artist>Leonardo da Vinci</artist>
+		<year>1490</year>
+		<price>$450.3 Million</price>
+	</painting>
+	
+	<painting>
+		<name>Interchange</name>
+		<artist>Willem de Kooning</artist>
+		<year>1955</year>
+		<price>$300 Million</price>
+	</painting>
+	
+	<painting>
+		<name>The Card Players</name>
+		<artist>Paul Cézanne</artist>
+		<year>1890</year>
+		<price>$250 Million</price>
+	</painting>
+	
+	<painting>
+		<name>Nafea Faa Ipoipo</name>
+		<artist>Paul Gauguin</artist>
+		<year>1892</year>
+		<price>$210 Million</price>
+	</painting>
+	
+	<painting>
+		<name>Number 17A</name>
+		<artist>Jackson Pollock</artist>
+		<year>1948</year>
+		<price>$200 Million</price>
+	</painting>
+</paintings>
